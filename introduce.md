@@ -8,7 +8,7 @@
  -  专业：软件专业
  -  政治面貌：共青团员
 ### 2，照片：
- -  ![blockchain](https://wx4.sinaimg.cn/mw690/0061q8Nngy1g0s9otmwvaj30mt0mtq5z.jpg)
+ -  ![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 ### 3，教育经历：
  -  高中：灵璧一中
  -  大学：南工院
